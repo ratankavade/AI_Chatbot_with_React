@@ -24,6 +24,11 @@ This project demonstrates how to integrate LLM capabilities into a modern fronte
 - **State Management:** React Hooks
 - **Build Tool:** (Vite / CRA — update based on your setup)
 
+## Screens
+
+<img width="1428" height="851" alt="Screenshot 2026-04-01 at 12 20 41 PM" src="https://github.com/user-attachments/assets/35ea1649-c8e7-4329-956c-c44543763da9" />
+
+
 ## ⚙️ Setup & Installation
 
 ### 1. Clone the repository
